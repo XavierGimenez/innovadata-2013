@@ -1,0 +1,11 @@
+Project built for the BBVA's International Data Journalism Challenge.
+This international challenge focuses on journalists and developers and the aim is to reward the best visualizations and the best unpublished articles or reports based on the visualization of a set of data from various sources. Projects taking part in this competition will supply value in terms of information from constructive viewpoint of society and our environment.
+
+The data visualization project shows the migration flows in Spain over a certain period of time, displaying the main migrant's destinations as well as the flow behaviours for each country.
+The project has been built using:
+- Open Refine
+- Processing
+- Unfolding maps
+- Java
+
+The data was obtained from the National Institute of Statistics of Spain.
